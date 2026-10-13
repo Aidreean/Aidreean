@@ -3,16 +3,6 @@
 # 👨‍💻 Adria
 
 ### Estudiant de CFGM SMXB2
-
-<div align="center">
-
-![Estudiant](https://img.shields.io/badge/Estudiant-CFGM_SMX-blue?style=for-the-badge&logo=academia&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Aprenent-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Xarxes](https://img.shields.io/badge/Xarxes-Networking-00A98F?style=for-the-badge&logo=cisco&logoColor=white)
-![Ciberseguretat](https://img.shields.io/badge/Ciberseguretat-Interès-red?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-</div>
-
 ---
 
 ## 👋 Hola!
