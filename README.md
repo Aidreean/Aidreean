@@ -16,10 +16,11 @@ Sóc **Adria**, estudiant de **CFGM de Sistemes Microinformàtics i Xarxes (SMXB
 
 ## 🛠️ Tecnologies i eines
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?stylebadge&logo=linux&logoColor=black
+[![Linux](https://img.shields.io/badge/Linux-FCC624?stylebadge&logo=linux&logoColor=black
 ![Windows](https://img.shields.io/badge/Windows-0078D6the-badge&logo=windows&logoColor=white
 ![Git](https://img.shields.io/badge/Git-style=for-the-badge&logo=git&logoColor=white
-![GitHub](https://img.shieldsGitHub-181717?style=for-the-badge&logo=github&logoColor=white
+![GitHub](https://img.shieldsGitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 📚 Actualment
 
@@ -33,9 +34,11 @@ Continuar aprenent, adquirir experiència i créixer professionalment dins del s
 
 ## 📊 Estadístiques de GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=UARI&show_icons=true&theme=github_dark
+[![Stats](https://github-readme-stats.vercel.app/api?username=UARI&show_icons=true&theme=github_dark
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameI&layout=compact&theme=github_dark
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usernameI&layout=compact&theme=github_dark](https://github-readme-stats.vercel.app/api?username=Aidreean&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Aidreean&layout=compact&theme=tokyonight)
 
 ---
 
