@@ -4,10 +4,7 @@
 
 ### Estudiant de CFGM SMXB2
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-thego=linux&logoColor=white
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the=windows&logoColor=white
-![Git](https://img.shields.io/badge/Git-F05032?or-the-badge&logo=git&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHubyle=for-the-badge&logo=github&logoColor=white
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logogoColor=white !
 
 </div>
 
