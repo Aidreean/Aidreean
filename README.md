@@ -4,7 +4,7 @@
 
 ### Estudiant de CFGM SMXB2
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logogoColor=white !
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logogoColor=white!
 
 </div>
 
