@@ -67,4 +67,17 @@ Continuar creixent en el món de la informàtica i convertir la meva passió en 
 
 ![Learning](https://img.shields.io/badge/Sempre-Aprenent-ff69b4?style=for-the-badge)
 
+## 📬 Contacte
+
+<div align="center">
+
+[![Correu](https://img.shields.io/badge/Correu-nugmeaa81%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nugmeaa81@gmail.com)
+[![Telèfon](https://img.shields.io/badge/Tel%C3%A8fon-631_17_28_59-success?style=for-the-badge&logo=googlephone&logoColor=white)](tel:+34631172859)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Enviar_missatge-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/34631172859)
+
+</div>
+
+- 📧 **Correu:** nugmeaa81@gmail.com
+- 📱 **Telèfon:** 631 17 28 59
+
 </div>
