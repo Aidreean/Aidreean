@@ -1,9 +1,13 @@
 <div align="center">
 
-# Adria 💻
+# 👨‍💻 Adria
 
 ### Estudiant de CFGM SMXB2
-### Apassionat de la Informàtica
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-thego=linux&logoColor=white
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the=windows&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?or-the-badge&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/GitHubyle=for-the-badge&logo=github&logoColor=white
 
 </div>
 
@@ -11,40 +15,37 @@
 
 ## 👋 Hola!
 
-Sóc **Adria**, estudiant de **Sistemes Microinformàtics i Xarxes (SMXB2)**.
+Sóc **Adria**, estudiant de **CFGM de Sistemes Microinformàtics i Xarxes (SMXB2)**.
 
-M'apassiona la tecnologia i m'agrada aprendre sobre sistemes, xarxes, Linux i ciberseguretat. Sempre estic buscant nous reptes i coneixements per continuar millorant.
+M'apassiona la informàtica, especialment el món dels **sistemes**, les **xarxes**, **Linux** i la **ciberseguretat**. Sempre estic buscant aprendre alguna cosa nova i millorar les meves habilitats tècniques.
 
-## 🖥️ Interesses
+## 🛠️ Tecnologies i eines
 
-- Linux
-- Xarxes
-- Servidors
-- Maquinari
-- Ciberseguretat
-- Administració de sistemes
+![Linux](https://img.shields.io/badge/Linux-Experience-success?style=flat-square&x
+![Windows](https://img.shields.io/badge/Windows-Experienceyle=flat-square&logo=windows
+![Git](https://img.shields.io/badge/Git-g-orange?style=flat-square&logo=git
+![Networking](https://img.shields.io/badge/-blue?style=flat-square
+![Cybersecurity](https://img.shields.io/badge/Cybersecuritytyle=flat-square
 
 ## 🎓 Formació
 
-**CFGM de Sistemes Microinformàtics i Xarxes (SMXB2)**
+📚 CFGM de Sistemes Microinformàtics i Xarxes (SMXB2)
 
 ## 🚀 Actualment
 
-- Aprenent noves tecnologies
-- Millorant les meves habilitats amb Linux
+- Aprenent administració de sistemes
+- Millorant coneixements de Linux
+- Practicant configuració de xarxes
 - Desenvolupant projectes personals
-- Ampliant coneixements en xarxes i sistemes
 
 ## 🎯 Objectiu
 
-Continuar creixent dins del món de la informàtica i convertir la meva passió en la meva professió.
+Continuar creixent en el món de la informàtica i convertir la meva passió en una professió.
 
 ---
 
-> "Sempre hi ha alguna cosa nova per aprendre."
-
 <div align="center">
 
-Gràcies per visitar el meu perfil ✨
+### ✨ "Sempre hi ha alguna cosa nova per aprendre."
 
 </div>
