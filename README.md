@@ -13,6 +13,10 @@
 
 <img src="assets/pia-santana.jpg" alt="Pia Santana" width="600" style="border-radius: 12px;">
 
+<div align="center">
+
+<img src="assets/pia-santana.jpg" alt="Pia Santana" width="500">
+
 *📍 Pia Santana, on estudio actualment*
 
 </div>
