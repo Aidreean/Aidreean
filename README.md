@@ -4,6 +4,20 @@
 
 ### Estudiant de CFGM SMXB2
 ---
+## 🎓 Formació
+
+![CFGM](https://img.shields.io/badge/CFGM-Sistemes_Microinform%C3%A0tics_i_Xarxes-blueviolet?style=for-the-badge)
+![Curs](https://img.shields.io/badge/Grup-SMXB2-informational?style=for-the-badge)
+
+<div align="center">
+
+<img src="assets/pia-santana.jpg" alt="Pia Santana" width="600" style="border-radius: 12px;">
+
+*📍 Pia Santana, on estudio actualment*
+
+</div>
+
+📚 CFGM de Sistemes Microinformàtics i Xarxes (SMXB2)
 
 ## 👋 Hola!
 
